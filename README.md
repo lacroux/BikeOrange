@@ -3,7 +3,8 @@ BikeOrange
 
 ![image](https://github.com/user-attachments/assets/0f0c89ed-3c85-41b0-ab90-2e7dbf2dc9ce)
 
-link Power Apps: https://apps.powerapps.com/play/e/dd26908e-629d-eb9d-9f01-f51a96b399e2/a/653e5f0e-c254-4bda-9b04-65e4b113af15?tenantId=7a01bc40-33fa-4cf5-9c99-c1cc84a7f1b7&hint=78cdf03c-3cce-414f-b77e-247874295f21&sourcetime=1747858775742
+link Power Apps: [https://apps.powerapps.com/play/e/dd26908e-629d-eb9d-9f01-f51a96b399e2/a/653e5f0e-c254-4bda-9b04-65e4b113af15?tenantId=7a01bc40-33fa-4cf5-9c99-c1cc84a7f1b7&hint=78cdf03c-3cce-414f-b77e-247874295f21&sourcetime=1747858775742
+](https://make.powerapps.com/e/dd26908e-629d-eb9d-9f01-f51a96b399e2/canvas/?action=edit&app-id=%2Fproviders%2FMicrosoft.PowerApps%2Fapps%2F653e5f0e-c254-4bda-9b04-65e4b113af15)
 
 EXPERIENCIAS DE USUARIOS PARA BIKE ORANGE
 
